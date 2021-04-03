@@ -1,5 +1,5 @@
 # helllo-World
-My First Repository
+My First Repository and helllo humans
 i am learning JS
 love node JS
 hope i can quickly get to pro level
